@@ -1,6 +1,9 @@
 # Task-2
-Day-2 task
-Document vs Window object
+  
+  Day-2 task
+
+
+   Document vs Window object
 
 
 Document Object:
